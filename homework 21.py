@@ -1,0 +1,5 @@
+n = int(input())
+m = int(input())
+a = int(input())
+b = int(input())
+print(n * m - a * m - b * (n - a))
